@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beasts>
+    <Beast>
+        <name>Rabbit</name>
+        <area>BELARUS</area>
+        <prey>green grass</prey>
+    </Beast>
+    <Beast>
+        <name>Deer</name>
+        <area>BELARUS</area>
+        <prey>mushrooms</prey>
+    </Beast>
+    <Beast>
+        <name>Bear</name>
+        <area>BELARUS</area>
+        <prey>rabbits and deers</prey>
+    </Beast>
+    <Beast>
+        <name>Deer</name>
+        <area>CANADA</area>
+        <prey>very very sweet berrie</prey>
+    </Beast>
+    <Beast>
+        <name>Kangaroo</name>
+        <area>AUSTRALIA</area>
+        <prey>horse food</prey>
+    </Beast>
+</Beasts>
